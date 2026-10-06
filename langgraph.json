@@ -1,0 +1,7 @@
+{
+    "dependencies": ["."],
+    "graphs": {
+        "github-issue-copilot": "./main.py:graph"
+    },
+    "env": ".env"
+}
